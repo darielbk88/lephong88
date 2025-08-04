@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lephong88&label=Profile%20views&color=0e75b6&style=flat" alt="lephong88" /> </p>
 
-- 🌱 I’m currently learning **Laravel, vuejs, function window and CCNA**
+- 🌱 I’m currently learning **Powershell and CCNA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lephong88](https://github.com/lephong88)
 
@@ -39,7 +39,7 @@
 
   <!-- Laravel -->
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/303379/laravel-logo.svg" alt="laravel" width="40" height="40"/>
   </a>
 
   <!-- PHP -->
