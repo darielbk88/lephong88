@@ -49,12 +49,12 @@
 
   <!-- Lua -->
   <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/374118/lua.svg" alt="lua" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/373817/lua.svg" alt="lua" width="40" height="40"/>
   </a>
 
   <!-- PowerShell -->
   <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/354259/powershell.svg" alt="powershell" width="40" height="40"/>
+    <img src="https://logodix.com/logo/335913.png" alt="powershell" width="40" height="40"/>
   </a>
 
   <!-- Python -->
