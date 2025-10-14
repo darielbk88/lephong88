@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phong</h1>
 <h3 align="center">Just a guy who loves windows and networking and also likes developers</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lephong88&label=Profile%20views&color=0e75b6&style=flat" alt="lephong88" /> </p>
-
 - 🌱 I’m currently learning **CCNA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lephong88](https://github.com/lephong88)
