@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Linux and Network**
 
-- 📫 How to reach me **thanhphong2k52203@gmail.com**
-
 - ⚡ Fun fact **Just be yourself, because life’s too short to be anybody else.**
 
 <h3 align="left">Connect with me:</h3>
