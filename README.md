@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Phong</h1>
-<h3 align="center">Just a guy who loves windows and networking and also likes developers</h3>
+<h3 align="center">Just a guy who loves linux and networking and also likes developers</h3>
 
 - 🌱 I’m currently learning **CCNA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lephong88](https://github.com/lephong88)
 
-- 💬 Ask me about **Window, Linux and Network**
+- 💬 Ask me about **Linux and Network**
 
 - 📫 How to reach me **thanhphong2k52203@gmail.com**
 
