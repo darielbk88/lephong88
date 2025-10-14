@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lephong88&label=Profile%20views&color=0e75b6&style=flat" alt="lephong88" /> </p>
 
-- 🌱 I’m currently learning **Powershell and CCNA**
+- 🌱 I’m currently learning **CCNA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lephong88](https://github.com/lephong88)
 
-- 💬 Ask me about **Window and Network**
+- 💬 Ask me about **Window, Linux and Network**
 
 - 📫 How to reach me **thanhphong2k52203@gmail.com**
 
