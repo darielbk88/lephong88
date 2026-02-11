@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phong</h1>
-<h3 align="center">Just a guy who loves linux and networking and also likes developers</h3>
+<h3 align="center">Just a guy who loves linux and networking</h3>
 
-- 🌱 I’m currently learning **CCNA**
+- 🌱 I’m currently learning **CCNP, KVM**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lephong88](https://github.com/lephong88)
 
